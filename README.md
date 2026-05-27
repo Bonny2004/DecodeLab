@@ -1,5 +1,4 @@
 ```md
-<div align="center">
 
 📊 Data Analyst Internship Projects – DecodeLab
 
